@@ -1,0 +1,2 @@
+- Hi, I'm zadarray.
+- I use Python, C, JS
